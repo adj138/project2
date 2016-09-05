@@ -18,4 +18,6 @@
 
 #Ignore code folder
 /code
+/code/*
 /code/ruby_projects
+/code/ruby_projects/*
